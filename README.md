@@ -1,6 +1,6 @@
 # M322-LB
 
-## Aufgabe 1
+## Aufgabe 1:
 ### Planung:
 |Iteration Nr.|Tätigkeit|Datum|Zeit min|Schritt aus dem Prozess|
 |-------------|---------|-----|--------|-----------------------|
@@ -32,9 +32,12 @@ Produkt:  Web-Applikation
 
 <img width="359" alt="Skizze_WebA" src="https://github.com/xBl0oM/M322-LB/assets/111045598/240dc2f5-3755-477a-853e-d82a5b096cf4">
 
-## Aufgabe 2
+## Aufgabe 2:
 1.	Die Web-Applikation hat Bedienungshilfen für Sehschwäche/Analphabeten.
 2.	Die Web-Applikation soll für die Produkte werben und den User zum Kauf anregen.
 3.	Die Web-Applikation enthält einen Filter, der die Produkte nach Farben sortiert.
+
+## Aufgabe 3:
+beide Personas wurden erstellt.
 
 
