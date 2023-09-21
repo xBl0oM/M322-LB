@@ -44,4 +44,13 @@ beide Personas wurden erstellt.
 
 [2. Person](https://github.com/xBl0oM/M322-LB/blob/18db697368ec8ef87590c2d9aaa3d521013a3701/Persona2.pptx)
 
+## Aufgabe 4:
+
+### 1. Person:
+
+### 2. Person:
+
+## Aufgabe 5:
+   
+
 
