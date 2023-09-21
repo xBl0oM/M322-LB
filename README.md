@@ -15,6 +15,9 @@
 ||	Gestaltungslösung evaluieren			||||
 
 #### Nr. 3:
+
+<img width="302" alt="Nutzungskontext" src="https://github.com/xBl0oM/M322-LB/assets/111045598/fe0d48c5-1af6-4d07-b7c0-04bf2c56f1f8">
+
 Wer:      Kunden, die Schuhe kaufen wollen.
 
 Was:      Interesse der Kunden wecken und für die Produkte werben.
@@ -27,6 +30,7 @@ Produkt:  Web-Applikation
 
 #### Skizze:
 
+<img width="359" alt="Skizze_WebA" src="https://github.com/xBl0oM/M322-LB/assets/111045598/240dc2f5-3755-477a-853e-d82a5b096cf4">
 
 ## Aufgabe 2
 1.	Die Web-Applikation hat Bedienungshilfen für Sehschwäche/Analphabeten.
