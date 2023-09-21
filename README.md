@@ -51,6 +51,13 @@ beide Personas wurden erstellt.
 ### 2. Person: Fridolin sucht neue Schuhe, da ihm seine alten geklaut wurden, er weiss noch nicht genau was er will und schaut deswegen auf dieser Webesite vorbei und hofft darauf, dass er etwas findet was ihm gefällt.
 
 ## Aufgabe 5:
+
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| ---- | --------------- | ---- | ---------------------------------- |
+| 1    |                 |||
+| ...  |                 |||
+
+✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
    
 
 
