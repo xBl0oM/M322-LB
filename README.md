@@ -46,9 +46,9 @@ beide Personas wurden erstellt.
 
 ## Aufgabe 4:
 
-### 1. Person:
+### 1. Person: Rolf möchte sich neue Schuhe kaufen, welche nicht über 250.- kosten, doch da er eine Sehschwäche hat, kann er die einzelnen Informationen der Schuhe nicht lesen und brauch deswegen ein TTS Feature.
 
-### 2. Person:
+### 2. Person: Fridolin sucht neue Schuhe, da ihm seine alten geklaut wurden, er weiss noch nicht genau was er will und schaut deswegen auf dieser Webesite vorbei und hofft darauf, dass er etwas findet was ihm gefällt.
 
 ## Aufgabe 5:
    
