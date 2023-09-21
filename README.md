@@ -16,9 +16,13 @@
 
 #### Nr. 3:
 Wer:      Kunden, die Schuhe kaufen wollen.
+
 Was:      Interesse der Kunden wecken und für die Produkte werben.
+
 Womit:    Laptop, Tablet, Smartphone
+
 Wo:       Zuhause, Unterwegs, eigentlich Überall
+
 Produkt:  Web-Applikation
 
 #### Skizze:
