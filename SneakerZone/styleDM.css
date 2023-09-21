@@ -1,0 +1,103 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #000000;
+
+}
+
+header {
+    width: 100%;
+
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#Logo {
+    width: 40%;
+    margin-left: 15%;
+
+}
+
+#insta {
+    width: 4%;
+    float: right;
+    margin-top: 6%;
+    margin-right: 5%;
+
+}
+
+nav {
+    background-color: #fca311;
+    position: sticky;
+    top: 5px;
+    width: 100%;
+    padding-top: 10px;
+    z-index: 1;
+    padding-bottom: 10px;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+
+#links {
+    text-align: center;
+    transition: transform .5s ease;
+}
+
+#links:hover {
+    transform: scale(1.1);
+}
+
+
+
+.shoes {
+    width: 325px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 5px -5px 5px #14213d;
+    transition: transform .5s ease;
+    filter: grayscale(100%);
+
+}
+
+.shoes:hover {
+    transform: scale(1.1);
+    filter: grayscale(0%);
+}
+
+.row {
+
+    text-align: center;
+    overflow: hidden;
+
+}
+
+#nachOben {
+    width: 20%;
+    float: right;
+    transition: transform .5s ease;
+    color: white;
+}
+
+#nachOben:hover {
+    transform: scale(1.1);
+}
+
+#WhitemodeButton {
+    width: 20%;
+    float: left;
+    transition: transform .5s ease;
+    margin-left: 12%;
+    color: white;
+}
+
+#WhitemodeButton:hover {
+    transform: scale(1.1);
+}
