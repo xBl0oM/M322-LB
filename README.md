@@ -52,10 +52,12 @@ beide Personas wurden erstellt.
 
 ## Aufgabe 5:
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |||
-| ...  |                 |||
+| US-№ |      Beschreibung    |
+| ---- |   --------------- |
+| 1.1    |      Webseite kann geöffnet werden.           |
+| 1.2  |   Text-to-speech button funtioniert              |
+| 1.3 | beim klicken auf das Produkt wird text-to-speech abgespielt |
+| 1.4 | beim klicken auf "Kaufen" wird man zur Verkaufsseite geleitet. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
    
