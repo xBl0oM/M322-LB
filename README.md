@@ -39,6 +39,9 @@ Produkt:  Web-Applikation
 
 ## Aufgabe 3:
 beide Personas wurden erstellt.
-[Link zur 1. Person](https://github.com/xBl0oM/M322-LB/blob/b08e04eacfff7ff0d779aba195f713faa9e89192/Persona%201.pptx)
+
+[1. Person](https://github.com/xBl0oM/M322-LB/blob/b08e04eacfff7ff0d779aba195f713faa9e89192/Persona%201.pptx)
+
+[2. Person]()
 
 
