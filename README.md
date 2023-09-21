@@ -58,6 +58,11 @@ beide Personas wurden erstellt.
 | 1.2  |   Text-to-speech button funtioniert              |
 | 1.3 | beim klicken auf das Produkt wird text-to-speech abgespielt |
 | 1.4 | beim klicken auf "Kaufen" wird man zur Verkaufsseite geleitet. |
+|||
+| 2.1 | Webseite kann geöffnet werden.|
+| 2.2 | Produkt-Filter funktioniert.|
+| 2.3 | Produktinformationen werden bei Bedarf angezeigt. |
+| 2.4 | beim klicken auf "Kaufen" wird man zur Verkaufsseite geleitet. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
    
