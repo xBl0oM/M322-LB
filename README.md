@@ -64,7 +64,7 @@ beide Personas wurden erstellt.
 | 2.3 | Produktinformationen werden bei Bedarf angezeigt. |
 | 2.4 | beim klicken auf "Kaufen" wird man zur Verkaufsseite geleitet. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
    
 
 
