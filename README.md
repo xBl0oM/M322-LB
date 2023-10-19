@@ -29,7 +29,10 @@ Produkt:  Web-Applikation
 
 #### Skizze:
 
-<img width="359" alt="Skizze_WebA" src="https://github.com/xBl0oM/M322-LB/assets/111045598/240dc2f5-3755-477a-853e-d82a5b096cf4">
+![Landingpage](https://github.com/xBl0oM/M322-LB/assets/111045600/9c16989c-bbe3-459a-8b4e-f9c2a65f549b)
+
+![Mainpage](https://github.com/xBl0oM/M322-LB/assets/111045600/d58e6b5a-bbb0-4b43-b5a6-be30e30cdffd)
+
 
 ## Aufgabe 2:
 1.	Die Web-Applikation hat Bedienungshilfen für Sehschwäche/Analphabeten.
