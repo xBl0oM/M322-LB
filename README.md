@@ -9,9 +9,6 @@
 |3	|Nutzungsanforderungen spezifizieren	|21.09.2023	|20 min|	Contextual Inquiry -> «Nutzungskontext Vorlage»|
 ||	Gestaltungslösung realisieren|	19.10.2023|	30 min|	Contextual Inquiry -> Skizze|
 ||	Gestaltungslösung evaluieren|	19.10.2023|	20 min|	Contextual Inquiry -> Unterrichtsmaterial|
-|4|	Nutzungsanforderungen spezifizieren			||||
-||	Gestaltungslösung realisieren			||||
-||	Gestaltungslösung evaluieren			||||
 
 #### Nr. 3:
 
