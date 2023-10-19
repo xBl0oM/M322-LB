@@ -90,6 +90,7 @@ Für Leute mit Sehschäche oder Analphabeten haben wir ein TTS Feature eingebaut
 |Ich empfinde die Bedienung des Darkmodes als Angenehm|||||x|
 |Ich empfinde die Farben des darkmodes als angenehm.|||||x
 |Ich empfinde die Bilde auf der Webseite als nützlich.|||||x|
-   
+
+Wir haben den Fragebogen Damian Eisenring gegeben, er hat unsere Webseite folgendermassen bewertet, durch diese Bewertung kamen wir auf einen Score von 72.5
 
 
