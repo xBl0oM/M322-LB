@@ -63,6 +63,16 @@ beide Personas wurden erstellt.
 
 ![Mainpage](https://github.com/xBl0oM/M322-LB/assets/111045600/d58e6b5a-bbb0-4b43-b5a6-be30e30cdffd)
 
+## Aufgabe 7:
+
+|№|Standartaufgabe|
+|-----|-------------|
+|1|Alle Links sind funktionstüchtig.|
+|2|Das Text to Speech Feature funktioniert.|
+
+Wir haben die Usability-Test mit Damian Eisenring durchgeführt. Der Testdurchlauf lief sehr gut, beide Standartaufgaben haben funktioniert. 
+Die einzige Auswirkung, die unsere Webseite auf unsere Person, Szenarien und User Stories hat, ist, das in unseren Personas steht, dass beide Personen gerne tiefe Preise oder Rabattaktionen hätten. Da dies auf unserer Webseite nicht vorhanden ist, sind diese womöglich etwas entäuscht.
+
 
    
 
