@@ -76,8 +76,20 @@ Die einzige Auswirkung, die unsere Webseite auf unsere Person, Szenarien und Use
 ## Aufgabe 8:
 Für Leute mit Sehschäche oder Analphabeten haben wir ein TTS Feature eingebaut welches mit einem Knopfdruck aktiviert werden kann.
 
+## Aufgabe 9:
 
-
+|Aussage|Stimme gar nicht zu||||Stimme voll und ganz zu|
+|-------|-------------------|-------------------|-------------------|-------------------|-------------------|
+|Ich kann mir sehr gut vorstellen, das Systemregelmäßig zu nutzen||||x||
+|Ich empfinde, dass das TTS Features den Anforderungen eins Sehbehinderten entspricht|||x|||
+|Ich empfinde das System als einfachzu nutzen.||||x||
+|Ich empfinde das System als unnötig komplex.|||x|||
+|Ich empfinde die Bedienung als sehr umständlich.|x|||||
+|Ich empfinde die Stimmen des TTS Feautres als angenehm|||||x|
+|Ich empfinde die Steuerung des TTS Features als einfach||||x||
+|Ich empfinde die Bedienung des Darkmodes als Angenehm|||||x|
+|Ich empfinde die Farben des darkmodes als angenehm.|||||x
+|Ich empfinde die Bilde auf der Webseite als nützlich.|||||x|
    
 
 
