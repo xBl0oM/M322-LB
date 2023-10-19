@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SneakZone</title>
+    <link rel="stylesheet" href="style.css">
+
+
+
+
+</head>
+
+<body>
+    <script>
+
+        function ttsx() {
+            tts = true;
+
+            var linkerlinkEin = document.getElementById("linkerlinkEin");
+            linkerlinkEin.play();
+        }
+
+        function NBPhantom() {
+            if (tts == true) {
+                var NBPhantomA = document.getElementById("NBPhantomA");
+                NBPhantomA.play();
+            }
+        }
+
+        function NikeJordan1() {
+            if (tts == true) {
+                var NikeJordan1A = document.getElementById("NikeJordan1A");
+                NikeJordan1A.play();
+            }
+        }
+        function nikeJordan4() {
+            if (tts == true) {
+                var nikeJordanA = document.getElementById("nikeJordanA");
+                nikeJordanA.play();
+            }
+        }
+        function AdidasSlide() {
+            if (tts == true) {
+                var AdidasSlideA = document.getElementById("AdidasSlideA");
+                AdidasSlideA.play();
+            }
+        }
+        function FoamRunner() {
+            if (tts == true) {
+                var AdidasFRA = document.getElementById("AdidasFRA");
+                AdidasFRA.play();
+            }
+        }
+        function nikeDunk() {
+            if (tts == true) {
+                var nikeDunkA = document.getElementById("nikeDunkA");
+                nikeDunkA.play();
+            }
+        }
+
+
+
+
+    </script>
+
+    <header>
+        <div id="LogoHeader">
+            <img id="Logo" src="./Bilder/LogoWM-removebg-preview.png" alt="Logo">
+
+
+
+        </div>
+    </header>
+
+    <nav>
+        <div class="navbar">
+            <button id="linkerlink" onclick="ttsx()">text-to-speech</button>
+            <audio id="linkerlinkEin" src="./mp3/linkerlinkEin.mp3"></audio>
+            <audio id="linkerlinkAus" src="./mp3/ttsAus.mp3"></audio>
+            <a href="landingpage.html">zur Landingpage</a>
+            <a href="indexDM.html">Darkmode</a>
+        </div>
+    </nav>
+    <section>
+        <div class="row">
+
+            <img class="shoes" id="nikeJordan" src="./Bilder/img01.jpg" alt="Jordan4" onclick="nikeJordan4()">
+            <audio id="nikeJordanA" src="./mp3/Jordan4tts.mp3"></audio>
+
+
+            <img class="shoes" src="./Bilder/NB_red.jpg" alt="NBred" id="NBPhantom" onclick="NBPhantom()">
+            <audio id="NBPhantomA" src="./mp3/NBtts.mp3"></audio>
+
+
+            <img class="shoes" id="nikeDunk" src="./Bilder/Nike_Dunk_Purple.jpg" alt="NikeDunkPurple"
+                onclick="nikeDunk()">
+            <audio id="nikeDunkA" src="./mp3/nikeDunktts.mp3"></audio>
+
+        </div>
+        <div class="row">
+            <img class="shoes" id="AdidasFR" src="./Bilder/foam rnnr.jpg" alt="Adidas Foam runner"
+                onclick="FoamRunner()">
+            <audio id="AdidasFRA" src="./mp3/foamrunnertts.mp3"></audio>
+
+            <img class="shoes" id="AdidasSlide" src="./Bilder/Adidas_Yeezy_Boost.jpg" alt="Adidas Yeezy slide"
+                onclick="AdidasSlide()">
+            <audio id="AdidasSlideA" src="./mp3/yeezyboosttts.mp3"></audio>
+
+            <img class="shoes" id="NikeJordan1" src="./Bilder/jordan1.jpg" alt="Nike Jordan1" onclick="NikeJordan1()">
+            <audio id="NikeJordan1A" src="./mp3/Jordan1tts.mp3"></audio>
+
+        </div>
+
+
+
+    </section>
+    <footer>
+        <div id="footer">
+            <a id="nachOben" href="#Logo">
+                <h2>
+                    nach oben.
+                </h2>
+            </a>
+
+        </div>
+    </footer>
+
+
+</body>
+
+</html>
