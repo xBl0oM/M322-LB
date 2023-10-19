@@ -97,7 +97,7 @@ Der Score sagt uns, dass unsere Webseite gute Ansätze hat, man aber noch einige
 Unser TTS Feature hatte beim Test ein Problem, und zwar, dass das TTS Feature nur angeschrieben war und es kein Bild dazu hatte, heisst man müsste TTS lesen können um es zu aktivviern, sont war es eigentlich gut.
 
 ## Aufgabe 10:
-Reflektierung:
+Reflexion:
 Analyse der Benutzeranforderungen: In dieser Phase habe ich die Bedürfnisse und Erwartungen der Zielgruppe
 sorgfältig analysiert. Dies beinhaltete die Identifizierung der Hauptnutzergruppen
 
