@@ -93,4 +93,18 @@ Für Leute mit Sehschäche oder Analphabeten haben wir ein TTS Feature eingebaut
 
 Wir haben den Fragebogen Damian Eisenring gegeben, er hat unsere Webseite folgendermassen bewertet, durch diese Bewertung kamen wir auf einen Score von 72.5
 
+## Aufgabe 10:
+Reflektierung:
+Analyse der Benutzeranforderungen: In dieser Phase habe ich die Bedürfnisse und Erwartungen der Zielgruppe
+sorgfältig analysiert. Dies beinhaltete die Identifizierung der Hauptnutzergruppen
+
+Gestaltung von Benutzererlebnissen: Basierend auf den Erkenntnissen aus der Analysephase habe ich die Benutzererlebnisse gestaltet.
+
+Entwicklung: Nach der Gestaltungsphase habe ich die Webseite entwickelt, wobei ich auf bewährte Praktiken im Webdesign und der Programmierung geachtet habe. Die Umsetzung erfolgte unter Berücksichtigung der gestalteten Benutzererlebnisse.
+
+Der nutzerzentrierte Gestaltungsprozess war äußerst wertvoll für das Projekt, da er sicherstellte, dass die Webseite den Bedürfnissen der Benutzer entsprach. Es half, die Usability zu verbessern, Fehler zu beheben und die Benutzerfreundlichkeit zu optimieren.
+
+Das Projekt hätte im Bereich Zeiteinteilung deutlich besser organisiert werden können. Um das zu erreichen, muss die ganze Gruppe viel kommunizieren und sich besprechen.
+
+
 
