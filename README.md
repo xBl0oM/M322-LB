@@ -62,7 +62,7 @@ beide Personas wurden erstellt.
 ![Landingpage](https://github.com/xBl0oM/M322-LB/assets/111045600/9c16989c-bbe3-459a-8b4e-f9c2a65f549b)
 Auf der Landingpage ist der Slogan, das Logo und ein Button welcher dann zur Hauptseite führt.
 ![Mainpage](https://github.com/xBl0oM/M322-LB/assets/111045600/d58e6b5a-bbb0-4b43-b5a6-be30e30cdffd)
-Auf der Hauptseite gibt es die Schuhe, das Logo und 3 Buttons, mit diesen Drei Buttons kann man dann entweder zurück zur Starteseite, den Darkmode aktivieren oder das TTS Feature aktivieren.
+Auf der Hauptseite gibt es die Schuhe, das Logo und 3 Buttons, mit diesen Drei Buttons kann man dann entweder zurück zur Starteseite, den Darkmode aktivieren oder das TTS Feature aktivieren. Um eine Beschreibung der Gegenstände zu bekommen muss man auf die Bilder klicken.
 ## Aufgabe 7:
 
 |№|Standartaufgabe|
@@ -72,6 +72,10 @@ Auf der Hauptseite gibt es die Schuhe, das Logo und 3 Buttons, mit diesen Drei B
 
 Wir haben die Usability-Test mit Damian Eisenring durchgeführt. Der Testdurchlauf lief sehr gut, beide Standartaufgaben haben funktioniert. 
 Die einzige Auswirkung, die unsere Webseite auf unsere Person, Szenarien und User Stories hat, ist, das in unseren Personas steht, dass beide Personen gerne tiefe Preise oder Rabattaktionen hätten. Da dies auf unserer Webseite nicht vorhanden ist, sind diese womöglich etwas entäuscht.
+
+## Aufgabe 8:
+Für Leute mit Sehschäche oder Analphabeten haben wir ein TTS Feature eingebaut welches mit einem Knopfdruck aktiviert werden kann.
+
 
 
    
