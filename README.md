@@ -34,7 +34,7 @@ Produkt:  Web-Applikation
 ## Aufgabe 2:
 1.	Die Web-Applikation hat Bedienungshilfen für Sehschwäche/Analphabeten.
 2.	Die Web-Applikation soll für die Produkte werben und den User zum Kauf anregen.
-3.	Die Web-Applikation enthält einen Filter, der die Produkte nach Farben sortiert.
+3.	Die Web-Applikation hat einen Darkmode für eine angenehme Benutzung.
 
 ## Aufgabe 3:
 beide Personas wurden erstellt.
