@@ -94,7 +94,7 @@ Für Leute mit Sehschäche oder Analphabeten haben wir ein TTS Feature eingebaut
 Wir haben den Fragebogen Damian Eisenring gegeben, er hat unsere Webseite folgendermassen bewertet, durch diese Bewertung kamen wir auf einen Score von 72.5
 Der Score sagt uns, dass unsere Webseite gute Ansätze hat, man aber noch einige Dinge optimieren könnte, die Bewertung wurde von Damian Eisenring gemacht.
 
-Unser TTS Feature hatte beim Test ein Problem, und zwar, dass das TTS Feature nur angeschrieben war und es kein Bild dazu hatte, heisst man müsste TTS lesen können um es zu aktivviern, sont war es eigentlich gut.
+Unser TTS Feature hatte beim Test ein Problem, und zwar, dass das TTS Feature nur angeschrieben war und es kein Bild dazu hatte, heisst man müsste TTS lesen können um es zu aktiviern, sonst war es eigentlich gut.
 ![image](https://github.com/xBl0oM/M322-LB/assets/111043950/2a3d248c-d39b-4c89-994c-c6e12269cac1)
 
 
