@@ -27,11 +27,6 @@ Wo:       Zuhause, Unterwegs, eigentlich Überall
 
 Produkt:  Web-Applikation
 
-#### Skizze:
-
-![Landingpage](https://github.com/xBl0oM/M322-LB/assets/111045600/9c16989c-bbe3-459a-8b4e-f9c2a65f549b)
-
-![Mainpage](https://github.com/xBl0oM/M322-LB/assets/111045600/d58e6b5a-bbb0-4b43-b5a6-be30e30cdffd)
 
 
 ## Aufgabe 2:
@@ -65,6 +60,11 @@ beide Personas wurden erstellt.
 | 2.2 | Produkt-Filter funktioniert.|
 | 2.3 | Produktinformationen werden bei Bedarf angezeigt. |
 | 2.4 | beim klicken auf "Kaufen" wird man zur Verkaufsseite geleitet. |
+
+## Aufgabe 6:
+![Landingpage](https://github.com/xBl0oM/M322-LB/assets/111045600/9c16989c-bbe3-459a-8b4e-f9c2a65f549b)
+
+![Mainpage](https://github.com/xBl0oM/M322-LB/assets/111045600/d58e6b5a-bbb0-4b43-b5a6-be30e30cdffd)
 
 
    
