@@ -95,6 +95,7 @@ Wir haben den Fragebogen Damian Eisenring gegeben, er hat unsere Webseite folgen
 Der Score sagt uns, dass unsere Webseite gute Ansätze hat, man aber noch einige Dinge optimieren könnte, die Bewertung wurde von Damian Eisenring gemacht.
 
 Unser TTS Feature hatte beim Test ein Problem, und zwar, dass das TTS Feature nur angeschrieben war und es kein Bild dazu hatte, heisst man müsste TTS lesen können um es zu aktivviern, sont war es eigentlich gut.
+![image](https://github.com/xBl0oM/M322-LB/assets/111043950/8e6c92d3-2728-4102-be59-a3b4c7facd37)
 
 ## Aufgabe 10:
 Reflexion:
